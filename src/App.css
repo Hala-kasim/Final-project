@@ -1,0 +1,24 @@
+.img {
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
+#myInput {
+  margin-top: 10px;
+}
+.icon {
+ /* text-align: right; */
+ margin-left: 80px
+}
+li {
+  list-style: none;
+}
+ul {
+  margin-left: -20px;
+}
+.list {
+  border-bottom: 0.1px solid grey;
+  padding: 2px;
+  padding-left: 30px;
+  margin: 5px;
+}
+
